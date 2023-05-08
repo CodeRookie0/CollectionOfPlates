@@ -1,0 +1,15 @@
+C:\Users\maria\Desktop\KolekcjaPłyt\bin\Debug\net6.0\KolekcjaPłyt.exe
+C:\Users\maria\Desktop\KolekcjaPłyt\bin\Debug\net6.0\KolekcjaPłyt.deps.json
+C:\Users\maria\Desktop\KolekcjaPłyt\bin\Debug\net6.0\KolekcjaPłyt.runtimeconfig.json
+C:\Users\maria\Desktop\KolekcjaPłyt\bin\Debug\net6.0\KolekcjaPłyt.dll
+C:\Users\maria\Desktop\KolekcjaPłyt\bin\Debug\net6.0\KolekcjaPłyt.pdb
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\KolekcjaPłyt.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\KolekcjaPłyt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\KolekcjaPłyt.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\KolekcjaPłyt.AssemblyInfo.cs
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\KolekcjaPłyt.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\KolekcjaPłyt.dll
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\refint\KolekcjaPłyt.dll
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\KolekcjaPłyt.pdb
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\KolekcjaPłyt.genruntimeconfig.cache
+C:\Users\maria\Desktop\KolekcjaPłyt\obj\Debug\net6.0\ref\KolekcjaPłyt.dll
